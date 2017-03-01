@@ -22,6 +22,7 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'rack-cors', :require => 'rack/cors'
+gem 'graphql'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
